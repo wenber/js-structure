@@ -59,3 +59,31 @@ Property
 >head: 头结点
 
 ```
+### DoubleChain(双向链表) 待实现
+
+### LoopChain(循环链表) 待实现
+
+
+### Set(集合) 待实现
+
+### Queue(队列)
+
+``` javascript
+
+Method
+
+>enqueue(): 入队
+
+>dequeue(): 出队
+
+>getFirst(): 获取队首元素
+
+>getLast(): 获取队尾元素
+
+>getLength(): 获取队列长度
+
+Property
+
+>dataSet: 数据存储对象
+
+```
