@@ -35,27 +35,24 @@ Property
 
 ### SingleChain(单向链表)
 
-``` javascript
-
 Method
 
->find(): 查找节点
+- find(): 查找节点
 
->findPrev(): 查找前一个节点
+- findPrev(): 查找前一个节点
 
->insertBefore(): 插入到某个节点之前
+- insertBefore(): 插入到某个节点之前
 
->insertBefore(): 插入到某个节点之后
+- insertBefore(): 插入到某个节点之后
 
->remove(): 移出某个节点
+- remove(): 移出某个节点
 
 Property
 
->dataSet: 数据存储对象
+- dataSet: 数据存储对象
 
->head: 头结点
+- head: 头结点
 
-```
 ### DoubleChain(双向链表) 待实现
 
 ### LoopChain(循环链表) 待实现
@@ -65,25 +62,21 @@ Property
 
 ### Queue(队列)
 
-``` javascript
-
 Method
 
->enqueue(): 入队
+- enqueue(): 入队
 
->dequeue(): 出队
+- dequeue(): 出队
 
->getFirst(): 获取队首元素
+- getFirst(): 获取队首元素
 
->getLast(): 获取队尾元素
+- getLast(): 获取队尾元素
 
->getLength(): 获取队列长度
+- getLength(): 获取队列长度
 
 Property
 
->dataSet: 数据存储对象
-
-```
+- dataSet: 数据存储对象
 
 ### List(列表) 待实现
 
@@ -92,3 +85,13 @@ Property
 ### Array_(数组)
 
 ### Dictionary(字典)
+
+Method
+
+- isEmpty(): 判断字典是否为空
+- getLength(): 获取字典长度
+- clear(): 清空字典
+- remove(): 移出某项
+- add(): 添加一项
+- fill(): 批量添加
+- find(): 查找某项
