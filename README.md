@@ -35,3 +35,31 @@ Property
 >top: 栈顶指针
 
 ```
+
+
+-----------------
+
+
+### SingleChain(单向链表)
+
+``` javascript
+
+Method
+
+>find(): 查找节点
+
+>findPrev(): 查找前一个节点
+
+>insertBefore(): 插入到某个节点之前
+
+>insertBefore(): 插入到某个节点之后
+
+>remove(): 移出某个节点
+
+Property
+
+>dataSet: 数据存储对象
+
+>head: 头结点
+
+```
