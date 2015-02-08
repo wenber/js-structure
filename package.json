@@ -1,26 +1,26 @@
 {
-    "name": "structure",
+    "name": "js-structure",
     "version": "0.0.1",
-    "description": "用js语言实现常见的数据结构",
+    "description": "use js to complete common data structures",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/wenber/structure.git"
+        "url": "https://github.com/wenber/js-structure.git"
     },
     "dependencies": {
     },
     "bin": {
     },
     "keywords": [
-        "structure"
+        "js-structure"
     ],
     "author": "wenbo.fe@gmail.com",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/wenber/structure/issues"
+        "url": "https://github.com/wenber/js-structure/issues"
     },
-    "homepage": "https://github.com/wenber/structure.git"
+    "homepage": "https://github.com/wenber/js-structure.git"
 }
