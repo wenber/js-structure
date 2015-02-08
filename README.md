@@ -82,14 +82,24 @@ Property
 
 ### Hash(哈希) 待实现
 
-### Array_(数组)
+### Array_(数组) 
+
+Method
+
+-matrix(): 创建二维数组
+
+- sort_(): 数组排序
+
+Property
+
+- dataSet: 数据存储对象
 
 ### Dictionary(字典)
 
 Method
 
 - isEmpty(): 判断字典是否为空
-- 
+
 - getLength(): 获取字典长度
 
 - clear(): 清空字典
@@ -101,3 +111,7 @@ Method
 - fill(): 批量添加
 
 - find(): 查找某项
+
+Property
+
+- dataSet: 数据存储对象
