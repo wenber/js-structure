@@ -36,10 +36,6 @@ Property
 
 ```
 
-
------------------
-
-
 ### SingleChain(单向链表)
 
 ``` javascript
