@@ -8,31 +8,31 @@ js-structure
 
 ### Stack(栈)
 
-``` javascript
-
 Method
 
->push(): 入栈
+``` javascript
 
->pop(): 出栈
+- push(): 入栈
 
->getTop(): 获取栈顶元素
+- pop(): 出栈
 
->getLength(): 获取栈的长度
+- getTop(): 获取栈顶元素
 
->clear(): 清空栈
+- getLength(): 获取栈的长度
 
->copy(): 复制栈
+- clear(): 清空栈
 
->revert(): 回文操作
+- copy(): 复制栈
 
->isEmpty(): 判断空栈
+- revert(): 回文操作
+
+- isEmpty(): 判断空栈`
 
 Property
 
->dataSet: 数据存储对象
+-dataSet: 数据存储对象
 
->top: 栈顶指针
+- top: 栈顶指针
 
 ```
 
