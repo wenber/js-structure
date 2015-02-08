@@ -6,7 +6,7 @@ js-structure
 
 ## API
 
-### Stack(栈)
+* Stack(栈)
 
 Method
 
