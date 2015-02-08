@@ -6,7 +6,7 @@ js-structure
 
 ## API
 
-### Stack(栈)
+#### Stack(栈)
 
 Method
 
@@ -33,7 +33,7 @@ Property
 
 - top: 栈顶指针
 
-### SingleChain(单向链表)
+#### SingleChain(单向链表)
 
 Method
 
@@ -53,14 +53,14 @@ Property
 
 - head: 头结点
 
-### DoubleChain(双向链表) 待实现
+#### DoubleChain(双向链表) 待实现
 
-### LoopChain(循环链表) 待实现
+#### LoopChain(循环链表) 待实现
 
 
-### Set(集合) 待实现
+#### Set(集合) 待实现
 
-### Queue(队列)
+#### Queue(队列)
 
 Method
 
@@ -78,11 +78,11 @@ Property
 
 - dataSet: 数据存储对象
 
-### List(列表) 待实现
+#### List(列表) 待实现
 
-### Hash(哈希) 待实现
+#### Hash(哈希) 待实现
 
-### Array_(数组)
+#### Array_(数组)
 
 Method
 
@@ -94,7 +94,7 @@ Property
 
 - dataSet: 数据存储对象
 
-### Dictionary(字典)
+#### Dictionary(字典)
 
 Method
 
