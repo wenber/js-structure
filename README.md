@@ -87,3 +87,11 @@ Property
 >dataSet: 数据存储对象
 
 ```
+
+### List(列表) 待实现
+
+### Hash(哈希) 待实现
+
+### Array_(数组)
+
+### Dictionary(字典)
