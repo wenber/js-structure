@@ -89,9 +89,15 @@ Property
 Method
 
 - isEmpty(): 判断字典是否为空
+- 
 - getLength(): 获取字典长度
+
 - clear(): 清空字典
+
 - remove(): 移出某项
+
 - add(): 添加一项
+
 - fill(): 批量添加
+
 - find(): 查找某项
