@@ -10,7 +10,6 @@ js-structure
 
 Method
 
-``` javascript
 
 - push(): 入栈
 
@@ -33,8 +32,6 @@ Property
 -dataSet: 数据存储对象
 
 - top: 栈顶指针
-
-```
 
 ### SingleChain(单向链表)
 
