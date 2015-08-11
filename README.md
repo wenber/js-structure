@@ -115,3 +115,6 @@ Method
 Property
 
 - dataSet: 数据存储对象
+
+# license
+js-structure is freely distributable under the terms of the [MIT license](https://github.com/moment/moment/blob/develop/LICENSE).

@@ -4,7 +4,8 @@
  * @date 2015-02-08
  */
 
-define(function (require, exports, module) {
+define(function () {
+
     return {
 
         /**
@@ -14,7 +15,7 @@ define(function (require, exports, module) {
         Stack: require('./lib/stack'),
 
         /**
-         * 栈
+         * 数组
          * @type {Object}
          */
         Array_: require('./lib/array_'),
@@ -26,22 +27,22 @@ define(function (require, exports, module) {
         Queue: require('./lib/queue'),
 
         /**
-         * 列表
+         * 单向链表
          * @type {Object}
          */
-        List: require('./lib/list'),
+        SingleChain: require('./lib/singleChain'),
 
         /**
-         * 链表
+         * 双向链表
          * @type {Object}
          */
-        Chain: require('./lib/chain'),
+        DoubleChain: require('./lib/doubleChain'),
 
         /**
-         * 集合
+         * 循环链表
          * @type {Object}
          */
-        Set: require('../lib/set'),
+        LoopChain: require('./lib/loopChain'),
 
         /**
          * 字典
