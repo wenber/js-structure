@@ -1,6 +1,6 @@
 {
     "name": "js-structure",
-    "version": "0.0.1-alpha.1",
+    "version": "0.0.2",
     "description": "use js to complete common data structures",
     "main": "index.js",
     "scripts": {
